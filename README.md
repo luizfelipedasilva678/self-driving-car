@@ -1,4 +1,4 @@
 # Self-Driving Car
 
-This is a self-driving car developed in JavaScript Course
-by freeCodeCamp.org on YouTube
+This is a code that I wrote on Self-driving Car course
+with JavaScript taught by [Radu Mariescu-Istodor](https://github.com/gniziemazity).
